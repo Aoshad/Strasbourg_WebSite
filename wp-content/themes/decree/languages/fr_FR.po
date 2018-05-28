@@ -1,0 +1,1255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Decree\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2017-08-01 15:11+0545\n"
+"PO-Revision-Date: 2017-08-30 15:55+0000\n"
+"Last-Translator: Administrateur du site <contact.david.gerard@icloud.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .."
+
+#: ../inc/default-options.php:335
+msgid "Tile Blind"
+msgstr ""
+
+#: ../inc/core.php:686 ../inc/core.php:796
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Publié le</ span>"
+
+#: ../inc/core.php:693 ../inc/core.php:805
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">Auteur</ span>"
+
+#: ../inc/core.php:722 ../inc/core.php:730 ../inc/core.php:762
+#: ../inc/core.php:772 ../inc/core.php:1358
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: ../inc/core.php:725 ../inc/core.php:765 ../inc/core.php:1362
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">Categories</span>"
+
+#: ../inc/core.php:733 ../inc/core.php:775
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">Etiquettes</span>"
+
+#: ../inc/core.php:1547 ../inc/customizer-includes/custom-controls.php:34
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+"Maintenez le bouton Ctrl (Windows) / Commande (Mac) enfoncé pour "
+"sélectionner plusieurs options."
+
+#: ../inc/customizer-includes/custom-controls.php:51
+msgid "Support"
+msgstr "Support"
+
+#: ../inc/customizer-includes/custom-controls.php:55
+msgid "Changelog"
+msgstr "Changelog"
+
+#: ../inc/customizer-includes/customizer.php:34
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Essayez de déplacer le titre et le bordereau du site avant le logo"
+
+#: ../inc/customizer-includes/customizer.php:76
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+"Attention: Réinitialiser tous les paramètres par défaut. Actualisez la page "
+"après la sauvegarde pour afficher les effets complets."
+
+#: ../inc/customizer-includes/customizer.php:88
+msgid "Check to reset all settings to default"
+msgstr "Vérifiez pour réinitialiser tous les paramètres par défaut"
+
+#: ../inc/customizer-includes/customizer.php:142
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+"Rafraîchir la page personnalisée après la sauvegarde pour afficher les "
+"effets de réinitialisation"
+
+#: ../inc/customizer-includes/featured-content.php:10
+#: ../inc/default-options.php:113
+msgid "Featured Content"
+msgstr "Contenu en vedette"
+
+#: ../inc/customizer-includes/featured-content.php:20
+#: ../inc/customizer-includes/featured-slider.php:20
+#: ../inc/customizer-includes/hero-content.php:20
+#: ../inc/customizer-includes/logo-slider.php:21
+#: ../inc/customizer-includes/promotion-headline.php:20
+#: ../inc/customizer-includes/team.php:20
+#: ../inc/customizer-includes/testimonial.php:20
+msgid "Enable on"
+msgstr "Activer sur"
+
+#: ../inc/customizer-includes/featured-content.php:46
+#: ../inc/customizer-includes/portfolio.php:35
+msgid "Select Featured Content Layout"
+msgstr "Sélectionner la mise en page du contenu en vedette"
+
+#: ../inc/customizer-includes/featured-content.php:59
+#: ../inc/customizer-includes/team.php:47
+#: ../inc/customizer-includes/testimonial.php:47
+msgid "Check to Move above Footer"
+msgstr "Cochez pour déplacer au-dessus du pied de page "
+
+#: ../inc/customizer-includes/featured-content.php:72
+#: ../inc/customizer-includes/featured-content.php:87
+#: ../inc/customizer-includes/portfolio.php:47
+#: ../inc/customizer-includes/portfolio.php:62
+#: ../inc/customizer-includes/team.php:60
+#: ../inc/customizer-includes/team.php:75
+#: ../inc/customizer-includes/testimonial.php:73
+#: ../inc/customizer-includes/testimonial.php:88
+#: ../inc/customizer-includes/theme-options.php:116
+#: ../inc/customizer-includes/theme-options.php:129
+#: ../inc/customizer-includes/theme-options.php:142
+#: ../inc/customizer-includes/theme-options.php:154
+#: ../inc/customizer-includes/theme-options.php:208
+#: ../inc/customizer-includes/theme-options.php:222
+msgid "Leave field empty to remove"
+msgstr "Laisser le champ vide pour supprimer"
+
+#: ../inc/customizer-includes/featured-content.php:73
+msgid "Headline for Featured Content"
+msgstr "Gros titre pour contenu en vedette "
+
+#: ../inc/customizer-includes/featured-content.php:88
+msgid "Sub-headline for Featured Content"
+msgstr "Sous-titre pour le contenu en vedette"
+
+#: ../inc/customizer-includes/featured-content.php:102
+msgid "Save and refresh the page if No. of Featured Content is changed"
+msgstr ""
+"Enregistrez et actualisez la page si le numéro de contenu en vedette est "
+"modifié"
+
+#: ../inc/customizer-includes/featured-content.php:108
+msgid "No of Featured Content"
+msgstr "Nombre de contenu en vedette"
+
+#: ../inc/customizer-includes/featured-content.php:124
+#: ../inc/customizer-includes/hero-content.php:66
+#: ../inc/customizer-includes/portfolio.php:79
+#: ../inc/customizer-includes/promotion-headline.php:45
+#: ../inc/customizer-includes/team.php:123
+#: ../inc/customizer-includes/testimonial.php:136
+msgid "Display Content"
+msgstr "Contenu affiché"
+
+#: ../inc/customizer-includes/featured-content.php:139
+#: ../inc/customizer-includes/featured-slider.php:125
+#: ../inc/customizer-includes/team.php:136
+msgid "Featured Page"
+msgstr "Page en vedette"
+
+#: ../inc/customizer-includes/featured-slider.php:10
+msgid "Featured Slider"
+msgstr "Slider en vedette "
+
+#: ../inc/customizer-includes/featured-slider.php:35
+msgid "Transition Effect"
+msgstr "Effet de transition"
+
+#: ../inc/customizer-includes/featured-slider.php:54
+#: ../inc/customizer-includes/logo-slider.php:51
+msgid "Transition Delay"
+msgstr "Délai de transition"
+
+#: ../inc/customizer-includes/featured-slider.php:72
+#: ../inc/customizer-includes/logo-slider.php:68
+msgid "Transition Length"
+msgstr "Longueur de transition "
+
+#: ../inc/customizer-includes/featured-slider.php:87
+msgid "Image Loader"
+msgstr "Chargeur d'image"
+
+#: ../inc/customizer-includes/featured-slider.php:102
+#: ../inc/customizer-includes/logo-slider.php:106
+msgid "Save and refresh the page if No. of Slides is changed"
+msgstr "Enregistrez et actualisez la page si le numéro de slide est modifié"
+
+#: ../inc/customizer-includes/featured-slider.php:108
+msgid "No of Slides"
+msgstr "Nombre de slides"
+
+#: ../inc/customizer-includes/header-options.php:16
+msgid "Enable on "
+msgstr "Activer sur"
+
+#: ../inc/customizer-includes/header-options.php:29
+msgid "Page/Post Featured Header Image Size"
+msgstr "Taille de l'image d'en-tête en vedette dans une page / article "
+
+#: ../inc/customizer-includes/header-options.php:41
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "Etiquette/Alt de l'image d'en-tête en vedette"
+
+#: ../inc/customizer-includes/header-options.php:53
+msgid "Featured Header Image Link URL"
+msgstr "Lien URL de l'image d'en-tête en vedette"
+
+#: ../inc/customizer-includes/header-options.php:65
+#: ../inc/customizer-includes/theme-options.php:166
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Cochez pour ouvrir le lien dans une nouvelle fenêtre / onglet"
+
+#: ../inc/customizer-includes/hero-content.php:10
+msgid "Hero Content"
+msgstr "Contenu Hero"
+
+#: ../inc/customizer-includes/hero-content.php:33
+msgid "Save and refresh the page if No. of Hero Content is changed"
+msgstr ""
+"Enregistrez et actualisez la page si le nombre de contenu de Hero est modifié"
+
+#: ../inc/customizer-includes/hero-content.php:38
+msgid "No of Hero Content"
+msgstr "Nombre de contenu Hero"
+
+#: ../inc/customizer-includes/hero-content.php:52
+#: ../inc/customizer-includes/team.php:109
+#: ../inc/customizer-includes/testimonial.php:122
+msgid "Check to Enable Title"
+msgstr "Cochez pour activer le titre"
+
+#: ../inc/customizer-includes/logo-slider.php:11
+msgid "Logo Slider"
+msgstr "Logo Slider"
+
+#: ../inc/customizer-includes/logo-slider.php:111
+msgid "No of Items"
+msgstr "Nombre d'objets"
+
+#: ../inc/customizer-includes/logo-slider.php:131
+msgid "No of visible items"
+msgstr "Nombre d'objets visibles "
+
+#: ../inc/customizer-includes/portfolio.php:20
+msgid "Enable Portfolio on"
+msgstr "Activer le Portfolio sur "
+
+#: ../inc/customizer-includes/portfolio.php:48
+msgid "Headline for Portfolio"
+msgstr "Gros titre pour Portfolio"
+
+#: ../inc/customizer-includes/portfolio.php:63
+msgid "Sub-headline for Portfolio"
+msgstr "Sous-titre pour Portfolio"
+
+#: ../inc/customizer-includes/portfolio.php:93
+msgid "Save and refresh the page if No. of Portfolio is changed"
+msgstr ""
+"Enregistrez et actualisez la page si le numéro de Portfolio est modifié"
+
+#: ../inc/customizer-includes/portfolio.php:99
+msgid "No of Portfolio"
+msgstr "Nombre de Portfolio "
+
+#: ../inc/customizer-includes/portfolio.php:113
+msgid "Check to Hide Posted On Date"
+msgstr "Cochez pour cacher publié le"
+
+#: ../inc/customizer-includes/portfolio.php:126
+msgid "Check to Hide Author Meta"
+msgstr "Cochez pour cacher le méta auteur"
+
+#: ../inc/customizer-includes/promotion-headline.php:10
+msgid "Promotion Headline"
+msgstr "Promotion Headline"
+
+#: ../inc/customizer-includes/social-icons.php:27
+msgid ""
+"Skype link can be of formats: callto://+{number} or skype:{username}?{action}"
+". More Information in readme.txt file"
+msgstr ""
+"Le lien Skype peut être de formats: callto: // + {number} ou skype: "
+"{username}? {Action}. Plus d'informations dans le fichier readme.txt"
+
+#: ../inc/customizer-includes/team.php:34
+msgid "Select Layout"
+msgstr "Sélectionner disposition "
+
+#: ../inc/customizer-includes/team.php:61
+msgid "Headline"
+msgstr "Gros titre"
+
+#: ../inc/customizer-includes/team.php:76
+msgid "Sub-headline"
+msgstr "sous-titre"
+
+#: ../inc/customizer-includes/team.php:90
+msgid "Save and refresh the page if No. of items"
+msgstr "Enregistrez et actualisez la page si le numéro d'objets est modifié"
+
+#: ../inc/customizer-includes/team.php:95
+msgid "No of items"
+msgstr "Nombre d'objets"
+
+#: ../inc/customizer-includes/testimonial.php:10
+msgid "Testimonial"
+msgstr "Témoignages"
+
+#: ../inc/customizer-includes/testimonial.php:34
+msgid "Select Testimonial Layout"
+msgstr "Sélectionner la présentation du témoignage"
+
+#: ../inc/customizer-includes/testimonial.php:60
+msgid "Check to Enable Slider"
+msgstr "Cochez pour activer le slider"
+
+#: ../inc/customizer-includes/testimonial.php:74
+msgid "Headline for Testimonial"
+msgstr "Gros titre pour témoignages "
+
+#: ../inc/customizer-includes/testimonial.php:89
+msgid "Sub-headline for Testimonial"
+msgstr "Sous-titre pour les témoignages"
+
+#: ../inc/customizer-includes/testimonial.php:103
+msgid "Save and refresh the page if No. of Testimonial is changed"
+msgstr ""
+"Enregistrez et actualisez la page si le numéro de témoignage est modifié"
+
+#: ../inc/customizer-includes/testimonial.php:108
+msgid "No of Testimonial"
+msgstr "Nombre de témoignage "
+
+#: ../inc/customizer-includes/theme-options.php:9
+msgid "Basic theme Options"
+msgstr "Options basiques du thème"
+
+#: ../inc/customizer-includes/theme-options.php:16
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on homepage and "
+"entire site."
+msgstr ""
+"La navigation \"Breadcrumbs\" est une excellente façon de laisser vos "
+"visiteurs découvrir où ils se trouvent sur votre site en un coup d'œil. Vous "
+"pouvez les activer / les désactiver sur la page d'accueil et le site entier."
+
+#: ../inc/customizer-includes/theme-options.php:18
+msgid "Breadcrumb Options"
+msgstr "Options de navigation "
+
+#: ../inc/customizer-includes/theme-options.php:28
+msgid "Check to enable Breadcrumb"
+msgstr "Cochez pour activer la navigation "
+
+#: ../inc/customizer-includes/theme-options.php:40
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Cochez pour activer la navigation sur la page principale"
+
+#: ../inc/customizer-includes/theme-options.php:55
+msgid "Separator between Breadcrumbs"
+msgstr "Séparateur entre chemins de navigation"
+
+#: ../inc/customizer-includes/theme-options.php:76
+msgid "Excerpt length. Default is 30 words"
+msgstr "Longueur de l'extrait. Par défaut, c'est 30 mots"
+
+#: ../inc/customizer-includes/theme-options.php:83
+msgid "Excerpt Length (words)"
+msgstr "Longueur de l'extrait (en mots)"
+
+#: ../inc/customizer-includes/theme-options.php:96
+msgid "Read More Text"
+msgstr "Lire plus de texte"
+
+#: ../inc/customizer-includes/theme-options.php:107
+msgid "Header Right Options"
+msgstr "Options de l'en-tête de droite "
+
+#: ../inc/customizer-includes/theme-options.php:117
+msgid "Call Text"
+msgstr "Texte d'appel"
+
+#: ../inc/customizer-includes/theme-options.php:130
+msgid "Call Number"
+msgstr "Numéro de téléphone "
+
+#: ../inc/customizer-includes/theme-options.php:143
+msgid "Button Text"
+msgstr "Bouton texte"
+
+#: ../inc/customizer-includes/theme-options.php:155
+msgid "Button Link"
+msgstr "Lien du bouton "
+
+#: ../inc/customizer-includes/theme-options.php:176
+#: ../inc/customizer-includes/theme-options.php:178
+msgid "Header Top Options"
+msgstr "Options de l'en-tête "
+
+#: ../inc/customizer-includes/theme-options.php:187
+msgid "Check to disable date"
+msgstr "Cochez pour désactiver la date"
+
+#: ../inc/customizer-includes/theme-options.php:198
+msgid "Homepage / Frontpage Options"
+msgstr "Options de page d'accueil, page principale "
+
+#: ../inc/customizer-includes/theme-options.php:209
+msgid "Latest Posts Title"
+msgstr "Titre des derniers articles "
+
+#: ../inc/customizer-includes/theme-options.php:223
+msgid "Latest Posts Description"
+msgstr "Description des derniers articles "
+
+#: ../inc/customizer-includes/theme-options.php:236
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the posts page"
+msgstr ""
+"Seuls les messages qui appartiennent aux catégories sélectionnées ici seront "
+"affichés sur la page des messages"
+
+#: ../inc/customizer-includes/theme-options.php:249 ../inc/metabox.php:85
+msgid "Layout Options"
+msgstr "Options de mise en page "
+
+#: ../inc/customizer-includes/theme-options.php:259
+msgid "Default Layout"
+msgstr "Disposition par défaut"
+
+#: ../inc/customizer-includes/theme-options.php:272
+msgid "Home/Archive Page Layout"
+msgstr "Accueil / Archivage de la mise en page"
+
+#: ../inc/customizer-includes/theme-options.php:285
+msgid "Archive Content Layout"
+msgstr "Disposition du contenu d'archive "
+
+#: ../inc/customizer-includes/theme-options.php:297 ../inc/metabox.php:87
+msgid "Single Page/Post Image Layout "
+msgstr "Mise en page d'une seule page / publication"
+
+#: ../inc/customizer-includes/theme-options.php:315
+#, php-format
+msgid ""
+"Infinite Scroll Options requires %1$sJetPack Plugin%2$s with Infinite Scroll "
+"module Enabled."
+msgstr ""
+"Les options de défilement infini requièrent %1$sModule JetPack%2$s avec le "
+"module Infinite Scroll Activé."
+
+#: ../inc/customizer-includes/theme-options.php:330
+#, php-format
+msgid ""
+"Once Jetpack is installed, Infinite Scroll Settings can be found %1$shere%2$s"
+msgstr ""
+"Une fois que Jetpack est installé, les paramètres de défilement infinie "
+"peuvent être trouvés%1$sici%2$s"
+
+#: ../inc/customizer-includes/theme-options.php:347
+msgid "Pagination Options"
+msgstr "Options de pagination"
+
+#: ../inc/customizer-includes/theme-options.php:357
+msgid "Pagination type"
+msgstr "Type de pagination "
+
+#: ../inc/customizer-includes/theme-options.php:369
+msgid "Scrollup Options"
+msgstr "Options de défilement"
+
+#: ../inc/customizer-includes/theme-options.php:378
+msgid "Check to disable Scroll Up"
+msgstr "Cochez pour désactiver le défilement "
+
+#: ../inc/default-options.php:50
+msgid "FREE Case Evaluation"
+msgstr "Évaluation de cas GRATUITE"
+
+#: ../inc/default-options.php:60
+msgid "Recent Posts"
+msgstr "Articles récents "
+
+#: ../inc/default-options.php:62
+#, php-format
+msgid ""
+"Here you can showcase the x number of recents posts which you can control "
+"from %1$sSettings - Readings%2$s"
+msgstr ""
+"Ici, vous pouvez afficher le nombre X de messages récents que vous pouvez "
+"contrôler à partir de %1$sParamètres - Lectures%2$s"
+
+#: ../inc/default-options.php:163
+msgid "Our Attorneys"
+msgstr "Nos avocats"
+
+#: ../inc/default-options.php:164
+msgid ""
+"This is Team Section and you can edit this from Appearnce - Customize - "
+"Theme Options - Team. Details information of Team Options can be found in "
+"our theme instructions page"
+msgstr ""
+"Il s'agit de la section Équipe et vous pouvez l'éditer à partir d'Apparence -"
+" Personnaliser - Options de thème - Équipe. Vous trouverez des informations "
+"détaillées sur Team Options dans notre page d'instructions sur le thème"
+
+#: ../inc/default-options.php:200
+msgid "Show Full Content (No Featured Image)"
+msgstr ""
+"\n"
+"Afficher le contenu complet (Aucune image en vedette)"
+
+#: ../inc/default-options.php:214 ../inc/default-options.php:234
+msgid "Homepage / Frontpage"
+msgstr "Page d'accueil/ Page principale "
+
+#: ../inc/default-options.php:215
+msgid "Excluding Homepage"
+msgstr "En excluant la page principale"
+
+#: ../inc/default-options.php:216
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "En excluant la page principale, Image en vedette de page/article"
+
+#: ../inc/default-options.php:218
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Site entier, Image en vedette de page/article"
+
+#: ../inc/default-options.php:250
+msgid "Below Menu"
+msgstr "Menu du dessous"
+
+#: ../inc/default-options.php:251
+msgid "Above Content"
+msgstr "Contenu ci-dessous"
+
+#: ../inc/default-options.php:327
+msgid "Fade"
+msgstr "Fondu"
+
+#: ../inc/default-options.php:328
+msgid "Fade Out"
+msgstr "Disparition"
+
+#: ../inc/default-options.php:329 ../inc/default-options.php:666
+msgid "None"
+msgstr "Aucun"
+
+#: ../inc/default-options.php:330
+msgid "Scroll Horizontal"
+msgstr "Défilement horizontal "
+
+#: ../inc/default-options.php:331
+msgid "Scroll Vertical"
+msgstr "Défilement vertical"
+
+#: ../inc/default-options.php:332
+msgid "Flip Horizontal"
+msgstr "Feuilletage Horizontal "
+
+#: ../inc/default-options.php:333
+msgid "Flip Vertical"
+msgstr "Feuilletage Vertical "
+
+#: ../inc/default-options.php:334
+msgid "Tile Slide"
+msgstr "Glissement du slide"
+
+#: ../inc/default-options.php:336
+msgid "Shuffle"
+msgstr "Mélanger"
+
+#: ../inc/default-options.php:365
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Par défaut(Anciens articles/Nouveaux articles)"
+
+#: ../inc/default-options.php:366
+msgid "Numeric"
+msgstr "Numérique "
+
+#: ../inc/default-options.php:367
+msgid "Infinite Scroll"
+msgstr "Défilement infini "
+
+#: ../inc/default-options.php:382 ../inc/default-options.php:646
+msgid "Featured Full Width"
+msgstr "Plein largeur en vedette"
+
+#: ../inc/default-options.php:383 ../inc/default-options.php:652
+msgid "Original"
+msgstr "Original"
+
+#: ../inc/default-options.php:414
+msgid "Feed"
+msgstr "Feed"
+
+#: ../inc/default-options.php:634
+msgid "Disable Image"
+msgstr "Désactiver image "
+
+#: ../inc/default-options.php:668
+msgid "Embed Code"
+msgstr "Code intégré "
+
+#: ../inc/default-options.php:699
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved"
+msgstr "Copyright &copie; %1$s %2$s. Tous droits réservés "
+
+#: ../inc/customizer-includes/featured-slider.php:50
+#: ../inc/customizer-includes/featured-slider.php:68
+#: ../inc/customizer-includes/logo-slider.php:46
+#: ../inc/customizer-includes/logo-slider.php:63
+msgid "seconds(s)"
+msgstr "seconde(s)"
+
+#: ../inc/customizer-includes/portfolio.php:10
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../inc/customizer-includes/promotion-headline.php:57
+msgid "Select Page"
+msgstr "Sélectionner la page"
+
+#: ../inc/customizer-includes/social-icons.php:12
+msgid "Social Links"
+msgstr "Liens Sociaux"
+
+#: ../inc/customizer-includes/theme-options.php:67
+msgid "Excerpt Options"
+msgstr "Options d'extrait"
+
+#: ../inc/customizer-includes/theme-options.php:237
+msgid "Select Categories"
+msgstr "Sélectionner les catégories"
+
+#: ../inc/customizer-includes/theme-options.php:387
+msgid "Change default placeholder text in Search."
+msgstr "Changez le texte de l'espace réservé par défaut dans Rechercher."
+
+#: ../inc/customizer-includes/theme-options.php:390
+msgid "Search Options"
+msgstr "Options de recherche"
+
+#: ../inc/customizer-includes/theme-options.php:399
+msgid "Default Display Text in Search"
+msgstr "Texte d'affichage par défaut dans la recherche"
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Decree Pro"
+msgstr "Decree Pro"
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Améliorer maintenant "
+
+#: ../inc/default-options.php:48
+msgid "Call Today"
+msgstr "Appeler aujourd'hui"
+
+#: ../inc/default-options.php:56
+msgid "Read More ... "
+msgstr "Lire plus..."
+
+#: ../inc/default-options.php:83
+msgid "Search... "
+msgstr "Rechercher..."
+
+#: ../inc/default-options.php:185 ../inc/default-options.php:549
+msgid "Content, Primary Sidebar"
+msgstr "Contenu, Barre latérale principale"
+
+#: ../inc/default-options.php:186 ../inc/default-options.php:554
+msgid "No Sidebar ( Full Width )"
+msgstr "Pas de barre latérale (Pleine largeur)"
+
+#: ../inc/default-options.php:199
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: ../inc/default-options.php:217 ../inc/default-options.php:235
+msgid "Entire Site"
+msgstr "Site entier"
+
+#: ../inc/default-options.php:219
+msgid "Pages and Posts"
+msgstr "Pages et articles"
+
+#: ../inc/default-options.php:220 ../inc/default-options.php:236
+#: ../inc/default-options.php:380
+msgid "Disabled"
+msgstr "Désactivé "
+
+#: ../inc/default-options.php:265 ../inc/default-options.php:313
+msgid "2 columns"
+msgstr "2 colonnes"
+
+#: ../inc/default-options.php:266
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: ../inc/default-options.php:267
+msgid "4 columns"
+msgstr "4 colonnes "
+
+#: ../inc/default-options.php:281 ../inc/default-options.php:297
+msgid "Show Excerpt"
+msgstr "Montrait l'extrait"
+
+#: ../inc/default-options.php:282 ../inc/default-options.php:298
+msgid "Show Full Content"
+msgstr "Montrer le contenu entier"
+
+#: ../inc/default-options.php:283
+msgid "Hide Content"
+msgstr "Cacher le contenu"
+
+#: ../inc/default-options.php:312
+msgid "1 column"
+msgstr "1 colonne"
+
+#: ../inc/default-options.php:349
+msgid "True"
+msgstr "Vrai"
+
+#: ../inc/default-options.php:350
+msgid "Wait"
+msgstr "Attendre"
+
+#: ../inc/default-options.php:351
+msgid "False"
+msgstr "Faux"
+
+#: ../inc/default-options.php:454
+msgid "VKontakte"
+msgstr "VKontakte"
+
+#: ../inc/default-options.php:458
+msgid "CodePen"
+msgstr "CodePen"
+
+#: ../inc/default-options.php:462
+msgid "Xing"
+msgstr "Xing"
+
+#: ../inc/default-options.php:466
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: ../inc/default-options.php:470
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/default-options.php:474
+msgid "Digg"
+msgstr "Digg"
+
+#: ../inc/default-options.php:478
+msgid "Reddit"
+msgstr "Reddit"
+
+#: ../inc/default-options.php:482
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: ../inc/default-options.php:486
+msgid "Pocket"
+msgstr "Pocket"
+
+#: ../inc/default-options.php:490
+msgid "DropBox"
+msgstr "Dropbox"
+
+#: ../inc/default-options.php:494
+msgid "Spotify"
+msgstr "Spotify"
+
+#: ../inc/default-options.php:498
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../inc/default-options.php:502
+msgid "Twitch"
+msgstr "Twitch"
+
+#: ../inc/default-options.php:506
+msgid "Website"
+msgstr "Site web"
+
+#: ../inc/default-options.php:510
+msgid "Phone"
+msgstr "Téléphone"
+
+#: ../inc/default-options.php:514
+msgid "Handset"
+msgstr "Combiné"
+
+#: ../inc/default-options.php:518
+msgid "Cart"
+msgstr "Cart"
+
+#: ../inc/default-options.php:522
+msgid "Cloud"
+msgstr "Nuage"
+
+#: ../inc/default-options.php:544 ../inc/default-options.php:570
+#: ../inc/default-options.php:628
+msgid "Default"
+msgstr "Défaut"
+
+#: ../inc/default-options.php:575
+msgid "Enable"
+msgstr "Activer"
+
+#: ../inc/default-options.php:580
+msgid "Disable"
+msgstr "Désactiver"
+
+#: ../inc/default-options.php:597
+msgid "Default Sidebar"
+msgstr "Barre latérale par défaut "
+
+#: ../inc/default-options.php:602
+msgid "Optional Sidebar One"
+msgstr "Barre latérale optionnelle Un"
+
+#: ../inc/default-options.php:607
+msgid "Optional Sidebar Two"
+msgstr "Barre latérale optionnelle Deux"
+
+#: ../inc/default-options.php:612
+msgid "Optional Sidebar three"
+msgstr "Barre latérale optionnelle Trois"
+
+#: ../inc/default-options.php:699
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/default-options.php:699
+msgid "by"
+msgstr "par"
+
+#: ../inc/metabox.php:86
+msgid "Header Featured Image Options"
+msgstr "Option d'image en vedette"
+
+#: ../inc/widgets/social-icons.php:32
+msgid "Use this widget to add short Information and Social Icons"
+msgstr ""
+"Utilisez ce widget pour ajouter de courtes informations et icônes sociales"
+
+#: ../inc/widgets/social-icons.php:41
+msgid "CT: Social Icons"
+msgstr "CT: Icones Sociales"
+
+#: ../inc/widgets/widgets.php:16
+msgid "Primary Sidebar"
+msgstr "Barre latérale principale"
+
+#: ../inc/widgets/widgets.php:22
+msgid ""
+"This is the primary sidebar if you are using a two or three column site "
+"layout option."
+msgstr ""
+"Il s'agit de la barre latérale principale si vous utilisez une option de "
+"mise en page du site à deux ou trois colonnes."
+
+#: ../inc/widgets/widgets.php:29
+#, php-format
+msgid "Footer Area %d"
+msgstr "Zone de pied de page %d"
+
+#: ../inc/widgets/widgets.php:35
+#, php-format
+msgid "Footer %d widget area."
+msgstr "Zone de widget %d du pied de page"
+
+#: ../no-results.php:12
+msgid "Error 404-Page NOT Found"
+msgstr "Erreur 404-Page NON trouvée"
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rechercher résultats pour: %s"
+
+#: ../searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Rechercher pour: [ label ]"
+
+#: ../sidebar.php:42
+msgid "Primary Sidebar Widget Area"
+msgstr "Zone de Widget du menu principal"
+
+#: ../sidebar.php:45
+msgid ""
+"This is the Primary Sidebar Widget Area if you are using a two or three "
+"column site layout option."
+msgstr ""
+"Il s'agit de la zone du Widget de la barre latérale primaire si vous "
+"utilisez une option de mise en page du site à deux ou trois colonnes."
+
+#: ../sidebar.php:48
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your %1$sWidgets Panel%2$s which will "
+"replace default widgets."
+msgstr ""
+"Par défaut, il charge des widgets de recherche et d'archives comme indiqué "
+"ci-dessous. Vous pouvez ajouter un widget à cette zone en visitant votre "
+"%1$sPanneau de Widgets%2$s qui remplacera les widgets par défaut."
+
+#: ../inc/core.php:1339
+msgid "Scroll Up"
+msgstr "Faire défiler vers le haut"
+
+#: ../inc/core.php:1381
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "Posté sur "
+
+#: ../inc/customizer-includes/custom-controls.php:47
+msgid "Theme Instructions"
+msgstr "Instructions du thème"
+
+#: ../inc/customizer-includes/customizer.php:78
+msgid "Reset all settings"
+msgstr "Réinitialiser tous les réglages"
+
+#: ../inc/default-options.php:526
+msgid "Link"
+msgstr "Lien"
+
+#: ../inc/default-options.php:667
+msgid "Image"
+msgstr "Image"
+
+#: ../inc/menus.php:19
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/menus.php:23
+msgid "Primary menu"
+msgstr "Menu principal"
+
+#: ../inc/menus.php:40 ../sidebar.php:67
+msgid "Search"
+msgstr "Recherche"
+
+#: ../inc/menus.php:79
+msgid "Footer menu"
+msgstr "Menu de bas de page"
+
+#: ../inc/metabox.php:207
+msgid "Decree Options"
+msgstr "Options de Decree"
+
+#: ../inc/widgets/social-icons.php:60
+msgid "Content"
+msgstr "Contenu"
+
+#: ../sidebar.php:73
+msgid "Archives"
+msgstr "Archives"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops ! Cette page ne peut être trouvée "
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il semble que rien n'a été trouvé à cet endroit. Peut-être essayez l'un des "
+"liens ci-dessous ou une recherche?"
+
+#: ../comments.php:34
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Répondre à \"%2$s\" [Titre des commentaires]"
+msgstr[1] ""
+
+#: ../comments.php:50 ../comments.php:76
+msgid "Comment navigation"
+msgstr "Commenter la navigation"
+
+#: ../comments.php:51 ../comments.php:77
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: ../comments.php:52 ../comments.php:78
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: ../comments.php:88
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: ../content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien n'a été trouvé"
+
+#: ../content-none.php:20 ../no-results.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier post ? <a href=\"%1$s\">Commencez ici</a>"
+
+#: ../content-none.php:24 ../no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspondait à vos termes de recherche. Veuillez "
+"réessayer avec d'autres mots-clés."
+
+#: ../content-none.php:29 ../no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne pouvons pas trouver ce que vous recherchez. Peut-être "
+"que la recherche peut aider ..."
+
+#: ../content-page.php:27 ../content-single.php:30 ../content.php:47
+msgid "Pages:"
+msgstr "Pages :"
+
+#: ../content-page.php:34 ../inc/core.php:611 ../inc/core.php:634
+#: ../inc/core.php:705
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../content.php:13 ../inc/default-options.php:381
+#: ../inc/default-options.php:640
+msgid "Featured"
+msgstr "En vedette"
+
+#: ../inc/breadcrumb.php:52
+msgid "Home"
+msgstr "Accueil"
+
+#: ../inc/breadcrumb.php:53
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s Archive pour %2$s"
+
+#: ../inc/breadcrumb.php:54
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$sRésultats de recherche pour: %2$s"
+
+#: ../inc/breadcrumb.php:55
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$sArticles étiquettés %2$s "
+
+#: ../inc/breadcrumb.php:56
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sVoir tous les messages par %2$s"
+
+#: ../inc/breadcrumb.php:57
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: ../inc/breadcrumb.php:194
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: ../inc/core.php:108 ../inc/menus.php:22
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: ../inc/core.php:109 ../inc/menus.php:77
+msgid "Footer Menu"
+msgstr "Menu de pied de page"
+
+#: ../inc/core.php:250
+msgid "expand child menu"
+msgstr "développer menu enfant"
+
+#: ../inc/core.php:251
+msgid "collapse child menu"
+msgstr "réduire menu enfant"
+
+#: ../inc/core.php:270
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr "sur [ Roboto: on ou off ]"
+
+#: ../inc/core.php:276
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "sur [Roboto Slab font: on ou off]"
+
+#: ../inc/core.php:584
+msgid "Previous"
+msgstr "Précédent"
+
+#: ../inc/core.php:585
+msgid "Next"
+msgstr "Suivant"
+
+#: ../inc/core.php:586 ../inc/customizer-includes/hero-content.php:80
+#: ../inc/customizer-includes/logo-slider.php:145
+#: ../inc/customizer-includes/portfolio.php:143
+#: ../inc/customizer-includes/testimonial.php:149
+msgid "Page"
+msgstr "Page"
+
+#: ../inc/core.php:611
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/core.php:625
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dit:</span>"
+
+#: ../inc/core.php:631
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: ../inc/core.php:638
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération"
+
+#: ../inc/core.php:701
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../inc/core.php:701
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: ../inc/core.php:701
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: ../inc/core.php:1479
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#: ../inc/core.php:1480
+msgid "Next post:"
+msgstr "Article Suivant:"
+
+#: ../inc/core.php:1482
+msgid "&larr; Previous"
+msgstr "&larr; Précédent"
+
+#: ../inc/core.php:1483
+msgid "Previous post:"
+msgstr "Article précédent:"
+
+#: ../inc/customizer-includes/custom-controls.php:22
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: ../inc/customizer-includes/customizer.php:98
+#: ../inc/customizer-includes/customizer.php:109
+msgid "Important Links"
+msgstr "Liens importants"
+
+#: ../inc/customizer-includes/featured-content.php:33
+#: ../inc/customizer-includes/logo-slider.php:34
+#: ../inc/customizer-includes/promotion-headline.php:32
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: ../inc/customizer-includes/logo-slider.php:81
+#: ../inc/widgets/social-icons.php:56
+msgid "Title"
+msgstr "Titre"
+
+#: ../inc/customizer-includes/logo-slider.php:93
+msgid "Description"
+msgstr "Description"
+
+#: ../inc/customizer-includes/team.php:10
+msgid "Team"
+msgstr "Equipe"
+
+#: ../inc/customizer-includes/theme-options.php:11
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: ../inc/default-options.php:398
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/default-options.php:402
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/default-options.php:406
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: ../inc/default-options.php:410 ../inc/social-icons.php:26
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/default-options.php:418
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/default-options.php:422
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/default-options.php:426
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/default-options.php:430
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/default-options.php:434
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/default-options.php:438
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/default-options.php:442
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/default-options.php:446
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/default-options.php:450
+msgid "Instagram"
+msgstr "Instagram"

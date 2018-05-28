@@ -1,0 +1,527 @@
+0000.000 (0) Opened log file at time: Wed, 30 Aug 2017 16:01:07 +0000 on http://strasbourg-tourisme.david-gerard-online.fr
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.5 WP: 4.8.1 PHP: 5.6.31 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) MySQL: 5.5.57 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 78.2M | 79M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 291943.1 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.009 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.010 (0) Set semaphore last lock (fd) time to 2017-08-30 16:01:07
+0000.011 (0) Semaphore lock (fd) complete
+0000.016 (0) Backup run: resumption=0, nonce=171c977be788, begun at=1504108867 (0s ago), job type=backup
+0000.018 (0) Scheduling a resumption (1) after 300 seconds (1504109167) in case this run gets aborted
+0000.031 (0) Checking if we have a zip executable available
+0000.032 (0) Testing: /usr/bin/zip
+0000.042 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.044 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.045 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.046 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.047 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.057 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.058 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.065 (0) Working binary zip found: /usr/bin/zip
+0000.067 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.068 (0) Creation of backups of directories: beginning
+0000.071 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.171 (0) Total entities for the zip file: 625 directories, 4467 files (0 skipped as non-modified), 75.2 MB
+0000.177 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.181 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.185 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.191 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.197 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.198 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.4 MB, 4467 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.060 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: size is now: 5.30 MB
+0001.066 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 600 files added (on-disk size: 5438.2 KB)
+0001.070 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 700 files added (on-disk size: 5438.2 KB)
+0001.074 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 800 files added (on-disk size: 5438.2 KB)
+0001.078 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 900 files added (on-disk size: 5438.2 KB)
+0001.082 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1000 files added (on-disk size: 5438.2 KB)
+0001.083 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (17.6 MB, 4467 files batched, 501 (1002) added so far); re-opening (prior size: 5438.2 KB)
+0001.883 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: size is now: 11.20 MB
+0001.890 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1100 files added (on-disk size: 11476.2 KB)
+0001.894 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1200 files added (on-disk size: 11476.2 KB)
+0001.899 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1300 files added (on-disk size: 11476.2 KB)
+0001.903 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1400 files added (on-disk size: 11476.2 KB)
+0001.907 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1500 files added (on-disk size: 11476.2 KB)
+0001.908 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.1 MB, 4467 files batched, 501 (1503) added so far); re-opening (prior size: 11476.2 KB)
+0002.052 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1600 files added (on-disk size: 12199.4 KB)
+0002.057 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1700 files added (on-disk size: 12199.4 KB)
+0002.061 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1800 files added (on-disk size: 12199.4 KB)
+0002.065 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 1900 files added (on-disk size: 12199.4 KB)
+0002.069 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2000 files added (on-disk size: 12199.4 KB)
+0002.070 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.2 MB, 4467 files batched, 501 (2004) added so far); re-opening (prior size: 12199.4 KB)
+0002.476 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: size is now: 15.50 MB
+0002.483 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2100 files added (on-disk size: 15906.5 KB)
+0002.487 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2200 files added (on-disk size: 15906.5 KB)
+0002.492 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2300 files added (on-disk size: 15906.5 KB)
+0002.496 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2400 files added (on-disk size: 15906.5 KB)
+0002.500 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2500 files added (on-disk size: 15906.5 KB)
+0002.501 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.9 MB, 4467 files batched, 501 (2505) added so far); re-opening (prior size: 15906.5 KB)
+0002.685 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2600 files added (on-disk size: 18606.9 KB)
+0002.690 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2700 files added (on-disk size: 18606.9 KB)
+0002.694 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2800 files added (on-disk size: 18606.9 KB)
+0002.699 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 2900 files added (on-disk size: 18606.9 KB)
+0002.703 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3000 files added (on-disk size: 18606.9 KB)
+0002.704 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8 MB, 4467 files batched, 501 (3006) added so far); re-opening (prior size: 18606.9 KB)
+0003.250 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3100 files added (on-disk size: 22213.8 KB)
+0003.255 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3200 files added (on-disk size: 22213.8 KB)
+0003.259 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3300 files added (on-disk size: 22213.8 KB)
+0003.263 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3400 files added (on-disk size: 22213.8 KB)
+0003.267 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3500 files added (on-disk size: 22213.8 KB)
+0003.269 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.2 MB, 4467 files batched, 501 (3507) added so far); re-opening (prior size: 22213.8 KB)
+0003.608 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3600 files added (on-disk size: 24655.1 KB)
+0003.613 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3700 files added (on-disk size: 24655.1 KB)
+0003.617 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3800 files added (on-disk size: 24655.1 KB)
+0003.621 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 3900 files added (on-disk size: 24655.1 KB)
+0003.625 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 4000 files added (on-disk size: 24655.1 KB)
+0003.626 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.7 MB, 4467 files batched, 501 (4008) added so far); re-opening (prior size: 24655.1 KB)
+0003.984 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 4100 files added (on-disk size: 27022 KB)
+0003.988 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 4200 files added (on-disk size: 27022 KB)
+0003.992 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 4300 files added (on-disk size: 27022 KB)
+0003.996 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip.tmp: 4400 files added (on-disk size: 27022 KB)
+0004.709 (0) Created plugins zip (0) - 29053.1 KB in 4.6 s (6266.5 KB/s) (sha1: ad8dbb937eca12e96ab1835c8e9e2de9c92b6faa, sha256: 9250ec91d3c92547f02bc076e7195cb5d6f500b57879abe0f028989add2b3462)
+0004.712 (0) Beginning creation of dump of themes (split every: 400 MB)
+0004.716 (0) Total entities for the zip file: 15 directories, 118 files (0 skipped as non-modified), 3.4 MB
+0004.720 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0004.845 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-themes.zip.tmp: size is now: 2.50 MB
+0004.881 (0) Created themes zip (0) - 2542.1 KB in 0.2 s (15143.8 KB/s) (sha1: 2620c728fbdd81b9f0650329015352d28396d2f1, sha256: 29cc6bc25bb2c79d2abb709b458580bba1a3ded85225efddeb93afe994f48a87)
+0004.884 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0004.885 (0) Looking for candidates to back up in: /homepages/43/d677700563/htdocs/strasbourg-tourisme/wp-content/uploads
+0004.886 (0) finding files: 2017: adding to list (1)
+0004.887 (0) finding files: elementor: adding to list (2)
+0004.887 (0) finding files: bb-plugin: adding to list (3)
+0004.888 (0) finding files: espresso: adding to list (4)
+0004.889 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0004.894 (0) Total entities for the zip file: 13 directories, 144 files (0 skipped as non-modified), 9.8 MB
+0004.899 (0) Zip: backup_2017-08-30-1801_Strasbourg_171c977be788-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0004.969 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-uploads.zip.tmp: size is now: 9.70 MB
+0005.093 (0) Created uploads zip (0) - 9936.5 KB in 0.2 s (48919.8 KB/s) (sha1: a9b15e465e5c62a9be8038f6c1700be29914e457, sha256: 6de8c63efc8671046f313eca3115688184b6890097bd5ecd0dd9e27936d14b57)
+0005.096 (0) Beginning backup of other directories found in the content directory (index: 0)
+0005.098 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0005.099 (0) Looking for candidates to back up in: /homepages/43/d677700563/htdocs/strasbourg-tourisme/wp-content
+0005.100 (0) finding files: index.php: adding to list (1)
+0005.101 (0) finding files: plugins: skipping: this is the plugins directory
+0005.102 (0) finding files: languages: adding to list (2)
+0005.102 (0) finding files: themes: skipping: this is the themes directory
+0005.103 (0) finding files: upgrade: skipping: excluded by options
+0005.104 (0) finding files: uploads: skipping: this is the uploads directory
+0005.105 (0) finding files: updraft: skipping: this is the updraft directory
+0005.105 (0) finding files: wflogs: adding to list (3)
+0005.106 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0005.111 (0) Total entities for the zip file: 6 directories, 31 files (0 skipped as non-modified), 4.1 MB
+0005.341 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-others.zip.tmp: size is now: 1.30 MB
+0005.372 (0) Created others zip (0) - 1304.2 KB in 0.3 s (4946.1 KB/s) (sha1: bb909ca792be49398fe451b4966b936686201ed1, sha256: b20cc2b4f6bc19db30b7101e76d0eee9c063e147da904ac2167c91ddb392d9d2)
+0005.379 (0) Saving backup status to database (elements: 8)
+0005.382 (0) Beginning creation of database dump (WordPress DB)
+0005.385 (0) Testing: /usr/bin/mysqldump
+0005.406 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `st_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1218 bytes total)
+0005.409 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0005.425 (0) Table st_options: Total expected rows (approximate): 1103
+0005.494 (0) Table st_options: Total rows added: 1099 in 0.07 seconds
+0005.496 (0) Table st_options: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_options.table.gz - 86.4 KB)
+0005.501 (0) Table st_users: Total expected rows (approximate): 2
+0005.505 (0) Table st_users: Total rows added: 2 in 0.00 seconds
+0005.506 (0) Table st_users: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_users.table.gz - 0.7 KB)
+0005.511 (0) Table st_usermeta: Total expected rows (approximate): 72
+0005.516 (0) Table st_usermeta: Total rows added: 72 in 0.00 seconds
+0005.518 (0) Table st_usermeta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_usermeta.table.gz - 2.6 KB)
+0005.522 (0) Table st_commentmeta: Total expected rows (approximate): 0
+0005.524 (0) Table st_commentmeta: Total rows added: 0 in 0.00 seconds
+0005.525 (0) Table st_commentmeta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_commentmeta.table.gz - 0.4 KB)
+0005.529 (0) Table st_comments: Total expected rows (approximate): 1
+0005.532 (0) Table st_comments: Total rows added: 1 in 0.00 seconds
+0005.533 (0) Table st_comments: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_comments.table.gz - 0.8 KB)
+0005.537 (0) Table st_links: Total expected rows (approximate): 0
+0005.539 (0) Table st_links: Total rows added: 0 in 0.00 seconds
+0005.540 (0) Table st_links: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_links.table.gz - 0.4 KB)
+0005.544 (0) Table st_postmeta: Total expected rows (approximate): 1619
+0005.599 (0) Table st_postmeta: Total rows added: 1619 in 0.05 seconds
+0005.601 (0) Table st_postmeta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_postmeta.table.gz - 71.5 KB)
+0005.605 (0) Table st_posts: Total expected rows (approximate): 361
+0005.647 (0) Table st_posts: Total rows added: 361 in 0.04 seconds
+0005.649 (0) Table st_posts: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_posts.table.gz - 67.5 KB)
+0005.653 (0) Table st_term_relationships: Total expected rows (approximate): 91
+0005.656 (0) Table st_term_relationships: Total rows added: 91 in 0.00 seconds
+0005.657 (0) Table st_term_relationships: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_term_relationships.table.gz - 0.6 KB)
+0005.661 (0) Table st_term_taxonomy: Total expected rows (approximate): 55
+0005.665 (0) Table st_term_taxonomy: Total rows added: 55 in 0.00 seconds
+0005.666 (0) Table st_term_taxonomy: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_term_taxonomy.table.gz - 0.8 KB)
+0005.670 (0) Table st_termmeta: Total expected rows (approximate): 0
+0005.672 (0) Table st_termmeta: Total rows added: 0 in 0.00 seconds
+0005.673 (0) Table st_termmeta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_termmeta.table.gz - 0.4 KB)
+0005.678 (0) Table st_terms: Total expected rows (approximate): 55
+0005.682 (0) Table st_terms: Total rows added: 55 in 0.00 seconds
+0005.685 (0) Table st_terms: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_terms.table.gz - 1 KB)
+0005.689 (0) Table st_em_bookings: Total expected rows (approximate): 6
+0005.692 (0) Table st_em_bookings: Total rows added: 6 in 0.00 seconds
+0005.693 (0) Table st_em_bookings: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_bookings.table.gz - 0.7 KB)
+0005.697 (0) Table st_em_events: Total expected rows (approximate): 13
+0005.703 (0) Table st_em_events: Total rows added: 13 in 0.01 seconds
+0005.705 (0) Table st_em_events: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_events.table.gz - 5.9 KB)
+0005.711 (0) Table st_em_locations: Total expected rows (approximate): 3
+0005.715 (0) Table st_em_locations: Total rows added: 3 in 0.00 seconds
+0005.716 (0) Table st_em_locations: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_locations.table.gz - 0.7 KB)
+0005.722 (0) Table st_em_meta: Total expected rows (approximate): 0
+0005.725 (0) Table st_em_meta: Total rows added: 0 in 0.00 seconds
+0005.726 (0) Table st_em_meta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_meta.table.gz - 0.4 KB)
+0005.731 (0) Table st_em_tickets: Total expected rows (approximate): 12
+0005.736 (0) Table st_em_tickets: Total rows added: 12 in 0.00 seconds
+0005.738 (0) Table st_em_tickets: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_tickets.table.gz - 0.6 KB)
+0005.743 (0) Table st_em_tickets_bookings: Total expected rows (approximate): 6
+0005.747 (0) Table st_em_tickets_bookings: Total rows added: 6 in 0.00 seconds
+0005.749 (0) Table st_em_tickets_bookings: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_tickets_bookings.table.gz - 0.4 KB)
+0005.754 (0) Table st_esp_answer: Total expected rows (approximate): 0
+0005.757 (0) Table st_esp_answer: Total rows added: 0 in 0.00 seconds
+0005.759 (0) Table st_esp_answer: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_answer.table.gz - 0.3 KB)
+0005.763 (0) Table st_esp_attendee_meta: Total expected rows (approximate): 0
+0005.767 (0) Table st_esp_attendee_meta: Total rows added: 0 in 0.00 seconds
+0005.768 (0) Table st_esp_attendee_meta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_attendee_meta.table.gz - 0.4 KB)
+0005.773 (0) Table st_esp_checkin: Total expected rows (approximate): 0
+0005.777 (0) Table st_esp_checkin: Total rows added: 0 in 0.00 seconds
+0005.778 (0) Table st_esp_checkin: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_checkin.table.gz - 0.4 KB)
+0005.783 (0) Table st_esp_country: Total expected rows (approximate): 267
+0005.801 (0) Table st_esp_country: Total rows added: 250 in 0.02 seconds
+0005.805 (0) Table st_esp_country: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_country.table.gz - 6.2 KB)
+0005.821 (0) Table st_esp_currency: Total expected rows (approximate): 153
+0005.841 (0) Table st_esp_currency: Total rows added: 153 in 0.02 seconds
+0005.847 (0) Table st_esp_currency: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_currency.table.gz - 1.8 KB)
+0005.872 (0) Table st_esp_currency_payment_method: Total expected rows (approximate): 0
+0005.897 (0) Table st_esp_currency_payment_method: Total rows added: 0 in 0.02 seconds
+0005.905 (0) Table st_esp_currency_payment_method: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_currency_payment_method.table.gz - 0.3 KB)
+0005.931 (0) Table st_esp_datetime: Total expected rows (approximate): 3
+0005.960 (0) Table st_esp_datetime: Total rows added: 3 in 0.02 seconds
+0005.968 (0) Table st_esp_datetime: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_datetime.table.gz - 0.6 KB)
+0006.000 (0) Table st_esp_datetime_ticket: Total expected rows (approximate): 3
+0006.051 (0) Table st_esp_datetime_ticket: Total rows added: 3 in 0.04 seconds
+0006.064 (0) Table st_esp_datetime_ticket: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_datetime_ticket.table.gz - 0.4 KB)
+0006.121 (0) Table st_esp_event_message_template: Total expected rows (approximate): 0
+0006.186 (0) Table st_esp_event_message_template: Total rows added: 0 in 0.05 seconds
+0006.205 (0) Table st_esp_event_message_template: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_message_template.table.gz - 0.3 KB)
+0006.730 (0) Table st_esp_event_meta: Total expected rows (approximate): 3
+0007.086 (0) Table st_esp_event_meta: Total rows added: 3 in 0.30 seconds
+0007.159 (0) Table st_esp_event_meta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_meta.table.gz - 0.6 KB)
+0007.357 (0) Table st_esp_event_question_group: Total expected rows (approximate): 3
+0007.451 (0) Table st_esp_event_question_group: Total rows added: 3 in 0.07 seconds
+0007.461 (0) Table st_esp_event_question_group: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_question_group.table.gz - 0.4 KB)
+0007.507 (0) Table st_esp_event_venue: Total expected rows (approximate): 0
+0007.556 (0) Table st_esp_event_venue: Total rows added: 0 in 0.04 seconds
+0007.568 (0) Table st_esp_event_venue: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_venue.table.gz - 0.3 KB)
+0007.592 (0) Table st_esp_extra_join: Total expected rows (approximate): 0
+0007.611 (0) Table st_esp_extra_join: Total rows added: 0 in 0.01 seconds
+0007.617 (0) Table st_esp_extra_join: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_extra_join.table.gz - 0.4 KB)
+0007.634 (0) Table st_esp_extra_meta: Total expected rows (approximate): 8
+0007.656 (0) Table st_esp_extra_meta: Total rows added: 8 in 0.02 seconds
+0007.662 (0) Table st_esp_extra_meta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_extra_meta.table.gz - 0.7 KB)
+0007.683 (0) Table st_esp_line_item: Total expected rows (approximate): 0
+0007.705 (0) Table st_esp_line_item: Total rows added: 0 in 0.02 seconds
+0007.711 (0) Table st_esp_line_item: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_line_item.table.gz - 0.5 KB)
+0007.730 (0) Table st_esp_log: Total expected rows (approximate): 0
+0007.746 (0) Table st_esp_log: Total rows added: 0 in 0.01 seconds
+0007.754 (0) Table st_esp_log: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_log.table.gz - 0.4 KB)
+0007.771 (0) Table st_esp_message: Total expected rows (approximate): 0
+0007.782 (0) Table st_esp_message: Total rows added: 0 in 0.01 seconds
+0007.786 (0) Table st_esp_message: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_message.table.gz - 0.6 KB)
+0007.797 (0) Table st_esp_message_template: Total expected rows (approximate): 73
+0007.819 (0) Table st_esp_message_template: Total rows added: 48 in 0.02 seconds
+0007.824 (0) Table st_esp_message_template: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_message_template.table.gz - 6.2 KB)
+0007.840 (0) Table st_esp_message_template_group: Total expected rows (approximate): 7
+0007.868 (0) Table st_esp_message_template_group: Total rows added: 7 in 0.02 seconds
+0007.874 (0) Table st_esp_message_template_group: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_message_template_group.table.gz - 0.6 KB)
+0007.897 (0) Table st_esp_payment: Total expected rows (approximate): 0
+0007.918 (0) Table st_esp_payment: Total rows added: 0 in 0.02 seconds
+0007.923 (0) Table st_esp_payment: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_payment.table.gz - 0.5 KB)
+0007.953 (0) Table st_esp_payment_method: Total expected rows (approximate): 10
+0007.977 (0) Table st_esp_payment_method: Total rows added: 10 in 0.02 seconds
+0007.981 (0) Table st_esp_payment_method: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_payment_method.table.gz - 1.1 KB)
+0007.998 (0) Table st_esp_price: Total expected rows (approximate): 4
+0008.022 (0) Table st_esp_price: Total rows added: 4 in 0.02 seconds
+0008.027 (0) Table st_esp_price: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_price.table.gz - 0.5 KB)
+0008.043 (0) Table st_esp_price_type: Total expected rows (approximate): 5
+0008.057 (0) Table st_esp_price_type: Total rows added: 5 in 0.01 seconds
+0008.061 (0) Table st_esp_price_type: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_price_type.table.gz - 0.5 KB)
+0008.077 (0) Table st_esp_question: Total expected rows (approximate): 10
+0008.087 (0) Table st_esp_question: Total rows added: 10 in 0.01 seconds
+0008.088 (0) Table st_esp_question: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question.table.gz - 0.8 KB)
+0008.096 (0) Table st_esp_question_group: Total expected rows (approximate): 2
+0008.116 (0) Table st_esp_question_group: Total rows added: 2 in 0.02 seconds
+0008.120 (0) Table st_esp_question_group: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question_group.table.gz - 0.5 KB)
+0008.142 (0) Table st_esp_question_group_question: Total expected rows (approximate): 10
+0008.163 (0) Table st_esp_question_group_question: Total rows added: 10 in 0.02 seconds
+0008.167 (0) Table st_esp_question_group_question: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question_group_question.table.gz - 0.4 KB)
+0008.181 (0) Table st_esp_question_option: Total expected rows (approximate): 0
+0008.190 (0) Table st_esp_question_option: Total rows added: 0 in 0.00 seconds
+0008.192 (0) Table st_esp_question_option: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question_option.table.gz - 0.4 KB)
+0008.202 (0) Table st_esp_registration: Total expected rows (approximate): 0
+0008.208 (0) Table st_esp_registration: Total rows added: 0 in 0.00 seconds
+0008.209 (0) Table st_esp_registration: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_registration.table.gz - 0.5 KB)
+0008.214 (0) Table st_esp_registration_payment: Total expected rows (approximate): 0
+0008.217 (0) Table st_esp_registration_payment: Total rows added: 0 in 0.00 seconds
+0008.218 (0) Table st_esp_registration_payment: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_registration_payment.table.gz - 0.4 KB)
+0008.227 (0) Table st_esp_state: Total expected rows (approximate): 69
+0008.238 (0) Table st_esp_state: Total rows added: 69 in 0.01 seconds
+0008.241 (0) Table st_esp_state: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_state.table.gz - 1.2 KB)
+0008.250 (0) Table st_esp_status: Total expected rows (approximate): 38
+0008.260 (0) Table st_esp_status: Total rows added: 38 in 0.01 seconds
+0008.263 (0) Table st_esp_status: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_status.table.gz - 0.8 KB)
+0008.266 (0) Table st_esp_ticket: Total expected rows (approximate): 4
+0008.275 (0) Table st_esp_ticket: Total rows added: 4 in 0.01 seconds
+0008.277 (0) Table st_esp_ticket: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_ticket.table.gz - 0.7 KB)
+0008.286 (0) Table st_esp_ticket_price: Total expected rows (approximate): 4
+0008.300 (0) Table st_esp_ticket_price: Total rows added: 4 in 0.01 seconds
+0008.303 (0) Table st_esp_ticket_price: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_ticket_price.table.gz - 0.4 KB)
+0008.309 (0) Table st_esp_ticket_template: Total expected rows (approximate): 0
+0008.318 (0) Table st_esp_ticket_template: Total rows added: 0 in 0.01 seconds
+0008.321 (0) Table st_esp_ticket_template: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_ticket_template.table.gz - 0.3 KB)
+0008.329 (0) Table st_esp_transaction: Total expected rows (approximate): 0
+0008.332 (0) Table st_esp_transaction: Total rows added: 0 in 0.00 seconds
+0008.333 (0) Table st_esp_transaction: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_transaction.table.gz - 0.4 KB)
+0008.344 (0) Table st_esp_venue_meta: Total expected rows (approximate): 0
+0008.350 (0) Table st_esp_venue_meta: Total rows added: 0 in 0.00 seconds
+0008.351 (0) Table st_esp_venue_meta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_venue_meta.table.gz - 0.5 KB)
+0008.356 (0) Table st_live_weather_station_datas: Total expected rows (approximate): 96
+0008.363 (0) Table st_live_weather_station_datas: Total rows added: 96 in 0.01 seconds
+0008.365 (0) Table st_live_weather_station_datas: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_datas.table.gz - 1.4 KB)
+0008.374 (0) Table st_live_weather_station_infos: Total expected rows (approximate): 0
+0008.382 (0) Table st_live_weather_station_infos: Total rows added: 0 in 0.01 seconds
+0008.384 (0) Table st_live_weather_station_infos: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_infos.table.gz - 0.4 KB)
+0008.396 (0) Table st_live_weather_station_log: Total expected rows (approximate): 103
+0008.414 (0) Table st_live_weather_station_log: Total rows added: 103 in 0.01 seconds
+0008.416 (0) Table st_live_weather_station_log: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_log.table.gz - 1.9 KB)
+0008.421 (0) Table st_live_weather_station_performance_cache: Total expected rows (approximate): 19
+0008.425 (0) Table st_live_weather_station_performance_cache: Total rows added: 19 in 0.00 seconds
+0008.426 (0) Table st_live_weather_station_performance_cache: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_performance_cache.table.gz - 0.8 KB)
+0008.436 (0) Table st_live_weather_station_performance_cron: Total expected rows (approximate): 196
+0008.444 (0) Table st_live_weather_station_performance_cron: Total rows added: 196 in 0.01 seconds
+0008.446 (0) Table st_live_weather_station_performance_cron: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_performance_cron.table.gz - 1.8 KB)
+0008.452 (0) Table st_live_weather_station_quota_day: Total expected rows (approximate): 65
+0008.458 (0) Table st_live_weather_station_quota_day: Total rows added: 65 in 0.00 seconds
+0008.461 (0) Table st_live_weather_station_quota_day: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_quota_day.table.gz - 0.7 KB)
+0008.475 (0) Table st_live_weather_station_quota_year: Total expected rows (approximate): 1
+0008.489 (0) Table st_live_weather_station_quota_year: Total rows added: 1 in 0.01 seconds
+0008.493 (0) Table st_live_weather_station_quota_year: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_quota_year.table.gz - 0.5 KB)
+0008.504 (0) Table st_live_weather_station_stations: Total expected rows (approximate): 1
+0008.510 (0) Table st_live_weather_station_stations: Total rows added: 1 in 0.00 seconds
+0008.512 (0) Table st_live_weather_station_stations: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_stations.table.gz - 0.7 KB)
+0008.518 (0) Table st_wfBadLeechers: Total expected rows (approximate): 0
+0008.522 (0) Table st_wfBadLeechers: Total rows added: 0 in 0.00 seconds
+0008.523 (0) Table st_wfBadLeechers: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBadLeechers.table.gz - 0.3 KB)
+0008.534 (0) Table st_wfBlockedIPLog: Total expected rows (approximate): 0
+0008.537 (0) Table st_wfBlockedIPLog: Total rows added: 0 in 0.00 seconds
+0008.538 (0) Table st_wfBlockedIPLog: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBlockedIPLog.table.gz - 0.3 KB)
+0008.542 (0) Table st_wfBlocks: Total expected rows (approximate): 0
+0008.546 (0) Table st_wfBlocks: Total rows added: 0 in 0.00 seconds
+0008.547 (0) Table st_wfBlocks: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBlocks.table.gz - 0.4 KB)
+0008.550 (0) Table st_wfBlocksAdv: Total expected rows (approximate): 0
+0008.553 (0) Table st_wfBlocksAdv: Total rows added: 0 in 0.00 seconds
+0008.554 (0) Table st_wfBlocksAdv: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBlocksAdv.table.gz - 0.3 KB)
+0008.560 (0) Table st_wfConfig: Total expected rows (approximate): 189
+0008.579 (0) Table st_wfConfig: Total rows added: 189 in 0.02 seconds
+0008.580 (0) Table st_wfConfig: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfConfig.table.gz - 233.2 KB)
+0008.586 (0) Table st_wfCrawlers: Total expected rows (approximate): 1
+0008.590 (0) Table st_wfCrawlers: Total rows added: 1 in 0.00 seconds
+0008.592 (0) Table st_wfCrawlers: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfCrawlers.table.gz - 0.4 KB)
+0008.599 (0) Table st_wfFileMods: Total expected rows (approximate): 5174
+0008.807 (0) Table st_wfFileMods: Total rows added: 5174 in 0.21 seconds
+0008.809 (0) Table st_wfFileMods: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfFileMods.table.gz - 401.7 KB)
+0008.813 (0) Table st_wfHits: Total expected rows (approximate): 922
+0008.857 (0) Table st_wfHits: Total rows added: 922 in 0.04 seconds
+0008.859 (0) Table st_wfHits: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfHits.table.gz - 18.8 KB)
+0008.863 (0) Table st_wfHoover: Total expected rows (approximate): 350
+0008.873 (0) Table st_wfHoover: Total rows added: 350 in 0.01 seconds
+0008.875 (0) Table st_wfHoover: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfHoover.table.gz - 4.5 KB)
+0008.879 (0) Table st_wfIssues: Total expected rows (approximate): 2
+0008.882 (0) Table st_wfIssues: Total rows added: 2 in 0.00 seconds
+0008.884 (0) Table st_wfIssues: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfIssues.table.gz - 0.7 KB)
+0008.888 (0) Table st_wfKnownFileList: Total expected rows (approximate): 5174
+0008.951 (0) Table st_wfKnownFileList: Total rows added: 5174 in 0.06 seconds
+0008.953 (0) Table st_wfKnownFileList: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfKnownFileList.table.gz - 49.9 KB)
+0008.958 (0) Table st_wfLeechers: Total expected rows (approximate): 140
+0008.962 (0) Table st_wfLeechers: Total rows added: 140 in 0.00 seconds
+0008.963 (0) Table st_wfLeechers: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLeechers.table.gz - 1 KB)
+0008.966 (0) Table st_wfLockedOut: Total expected rows (approximate): 0
+0008.969 (0) Table st_wfLockedOut: Total rows added: 0 in 0.00 seconds
+0008.971 (0) Table st_wfLockedOut: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLockedOut.table.gz - 0.3 KB)
+0008.974 (0) Table st_wfLocs: Total expected rows (approximate): 1
+0008.977 (0) Table st_wfLocs: Total rows added: 1 in 0.00 seconds
+0008.978 (0) Table st_wfLocs: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLocs.table.gz - 0.4 KB)
+0008.983 (0) Table st_wfLogins: Total expected rows (approximate): 27
+0008.987 (0) Table st_wfLogins: Total rows added: 27 in 0.00 seconds
+0008.988 (0) Table st_wfLogins: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLogins.table.gz - 1.1 KB)
+0008.992 (0) Table st_wfNet404s: Total expected rows (approximate): 1
+0008.995 (0) Table st_wfNet404s: Total rows added: 1 in 0.00 seconds
+0008.996 (0) Table st_wfNet404s: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfNet404s.table.gz - 0.4 KB)
+0009.000 (0) Table st_wfNotifications: Total expected rows (approximate): 5
+0009.002 (0) Table st_wfNotifications: Total rows added: 5 in 0.00 seconds
+0009.003 (0) Table st_wfNotifications: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfNotifications.table.gz - 0.9 KB)
+0009.007 (0) Table st_wfPendingIssues: Total expected rows (approximate): 2
+0009.009 (0) Table st_wfPendingIssues: Total rows added: 2 in 0.00 seconds
+0009.010 (0) Table st_wfPendingIssues: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfPendingIssues.table.gz - 0.7 KB)
+0009.014 (0) Table st_wfReverseCache: Total expected rows (approximate): 1
+0009.016 (0) Table st_wfReverseCache: Total rows added: 1 in 0.00 seconds
+0009.017 (0) Table st_wfReverseCache: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfReverseCache.table.gz - 0.4 KB)
+0009.021 (0) Table st_wfSNIPCache: Total expected rows (approximate): 0
+0009.023 (0) Table st_wfSNIPCache: Total rows added: 0 in 0.00 seconds
+0009.025 (0) Table st_wfSNIPCache: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfSNIPCache.table.gz - 0.4 KB)
+0009.028 (0) Table st_wfScanners: Total expected rows (approximate): 44
+0009.032 (0) Table st_wfScanners: Total rows added: 44 in 0.00 seconds
+0009.033 (0) Table st_wfScanners: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfScanners.table.gz - 0.6 KB)
+0009.037 (0) Table st_wfStatus: Total expected rows (approximate): 478
+0009.048 (0) Table st_wfStatus: Total rows added: 478 in 0.01 seconds
+0009.050 (0) Table st_wfStatus: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfStatus.table.gz - 7.9 KB)
+0009.054 (0) Table st_wfThrottleLog: Total expected rows (approximate): 0
+0009.056 (0) Table st_wfThrottleLog: Total rows added: 0 in 0.00 seconds
+0009.058 (0) Table st_wfThrottleLog: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfThrottleLog.table.gz - 0.3 KB)
+0009.063 (0) Table st_wfVulnScanners: Total expected rows (approximate): 0
+0009.065 (0) Table st_wfVulnScanners: Total rows added: 0 in 0.00 seconds
+0009.066 (0) Table st_wfVulnScanners: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfVulnScanners.table.gz - 0.3 KB)
+0009.070 (0) Table st_yoast_seo_links: Total expected rows (approximate): 18
+0009.073 (0) Table st_yoast_seo_links: Total rows added: 18 in 0.00 seconds
+0009.075 (0) Table st_yoast_seo_links: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_yoast_seo_links.table.gz - 0.8 KB)
+0009.078 (0) Table st_yoast_seo_meta: Total expected rows (approximate): 43
+0009.082 (0) Table st_yoast_seo_meta: Total rows added: 43 in 0.00 seconds
+0009.083 (0) Table st_yoast_seo_meta: finishing file (backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_yoast_seo_meta.table.gz - 0.5 KB)
+0009.086 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_options.table.gz (1/88): adding to final database dump
+0009.110 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_users.table.gz (2/88): adding to final database dump
+0009.112 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_usermeta.table.gz (3/88): adding to final database dump
+0009.114 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_commentmeta.table.gz (4/88): adding to final database dump
+0009.115 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_comments.table.gz (5/88): adding to final database dump
+0009.116 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_links.table.gz (6/88): adding to final database dump
+0009.117 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_postmeta.table.gz (7/88): adding to final database dump
+0009.151 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_posts.table.gz (8/88): adding to final database dump
+0009.179 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_term_relationships.table.gz (9/88): adding to final database dump
+0009.183 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_term_taxonomy.table.gz (10/88): adding to final database dump
+0009.185 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_termmeta.table.gz (11/88): adding to final database dump
+0009.187 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_terms.table.gz (12/88): adding to final database dump
+0009.189 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_bookings.table.gz (13/88): adding to final database dump
+0009.192 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_events.table.gz (14/88): adding to final database dump
+0009.194 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_locations.table.gz (15/88): adding to final database dump
+0009.196 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_meta.table.gz (16/88): adding to final database dump
+0009.198 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_tickets.table.gz (17/88): adding to final database dump
+0009.199 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_em_tickets_bookings.table.gz (18/88): adding to final database dump
+0009.201 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_answer.table.gz (19/88): adding to final database dump
+0009.202 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_attendee_meta.table.gz (20/88): adding to final database dump
+0009.204 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_checkin.table.gz (21/88): adding to final database dump
+0009.205 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_country.table.gz (22/88): adding to final database dump
+0009.210 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_currency.table.gz (23/88): adding to final database dump
+0009.213 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_currency_payment_method.table.gz (24/88): adding to final database dump
+0009.215 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_datetime.table.gz (25/88): adding to final database dump
+0009.217 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_datetime_ticket.table.gz (26/88): adding to final database dump
+0009.219 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_message_template.table.gz (27/88): adding to final database dump
+0009.221 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_meta.table.gz (28/88): adding to final database dump
+0009.223 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_question_group.table.gz (29/88): adding to final database dump
+0009.225 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_event_venue.table.gz (30/88): adding to final database dump
+0009.228 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_extra_join.table.gz (31/88): adding to final database dump
+0009.230 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_extra_meta.table.gz (32/88): adding to final database dump
+0009.231 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_line_item.table.gz (33/88): adding to final database dump
+0009.232 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_log.table.gz (34/88): adding to final database dump
+0009.233 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_message.table.gz (35/88): adding to final database dump
+0009.235 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_message_template.table.gz (36/88): adding to final database dump
+0009.239 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_message_template_group.table.gz (37/88): adding to final database dump
+0009.240 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_payment.table.gz (38/88): adding to final database dump
+0009.242 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_payment_method.table.gz (39/88): adding to final database dump
+0009.244 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_price.table.gz (40/88): adding to final database dump
+0009.245 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_price_type.table.gz (41/88): adding to final database dump
+0009.247 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question.table.gz (42/88): adding to final database dump
+0009.248 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question_group.table.gz (43/88): adding to final database dump
+0009.250 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question_group_question.table.gz (44/88): adding to final database dump
+0009.251 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_question_option.table.gz (45/88): adding to final database dump
+0009.253 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_registration.table.gz (46/88): adding to final database dump
+0009.255 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_registration_payment.table.gz (47/88): adding to final database dump
+0009.256 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_state.table.gz (48/88): adding to final database dump
+0009.259 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_status.table.gz (49/88): adding to final database dump
+0009.261 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_ticket.table.gz (50/88): adding to final database dump
+0009.263 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_ticket_price.table.gz (51/88): adding to final database dump
+0009.264 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_ticket_template.table.gz (52/88): adding to final database dump
+0009.266 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_transaction.table.gz (53/88): adding to final database dump
+0009.268 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_esp_venue_meta.table.gz (54/88): adding to final database dump
+0009.269 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_datas.table.gz (55/88): adding to final database dump
+0009.272 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_infos.table.gz (56/88): adding to final database dump
+0009.273 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_log.table.gz (57/88): adding to final database dump
+0009.276 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_performance_cache.table.gz (58/88): adding to final database dump
+0009.278 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_performance_cron.table.gz (59/88): adding to final database dump
+0009.281 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_quota_day.table.gz (60/88): adding to final database dump
+0009.283 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_quota_year.table.gz (61/88): adding to final database dump
+0009.285 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_live_weather_station_stations.table.gz (62/88): adding to final database dump
+0009.286 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBadLeechers.table.gz (63/88): adding to final database dump
+0009.288 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBlockedIPLog.table.gz (64/88): adding to final database dump
+0009.289 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBlocks.table.gz (65/88): adding to final database dump
+0009.291 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfBlocksAdv.table.gz (66/88): adding to final database dump
+0009.293 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfConfig.table.gz (67/88): adding to final database dump
+0009.314 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfCrawlers.table.gz (68/88): adding to final database dump
+0009.316 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfFileMods.table.gz (69/88): adding to final database dump
+0009.407 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfHits.table.gz (70/88): adding to final database dump
+0009.417 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfHoover.table.gz (71/88): adding to final database dump
+0009.420 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfIssues.table.gz (72/88): adding to final database dump
+0009.422 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfKnownFileList.table.gz (73/88): adding to final database dump
+0009.453 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLeechers.table.gz (74/88): adding to final database dump
+0009.455 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLockedOut.table.gz (75/88): adding to final database dump
+0009.456 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLocs.table.gz (76/88): adding to final database dump
+0009.457 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfLogins.table.gz (77/88): adding to final database dump
+0009.458 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfNet404s.table.gz (78/88): adding to final database dump
+0009.460 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfNotifications.table.gz (79/88): adding to final database dump
+0009.460 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfPendingIssues.table.gz (80/88): adding to final database dump
+0009.461 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfReverseCache.table.gz (81/88): adding to final database dump
+0009.462 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfSNIPCache.table.gz (82/88): adding to final database dump
+0009.463 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfScanners.table.gz (83/88): adding to final database dump
+0009.465 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfStatus.table.gz (84/88): adding to final database dump
+0009.469 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfThrottleLog.table.gz (85/88): adding to final database dump
+0009.470 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_wfVulnScanners.table.gz (86/88): adding to final database dump
+0009.471 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_yoast_seo_links.table.gz (87/88): adding to final database dump
+0009.472 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db-table-st_yoast_seo_meta.table.gz (88/88): adding to final database dump
+0009.474 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db.gz: finished writing out complete database file (976 KB)
+0009.493 (0) Total database tables backed up: 88 (backup_2017-08-30-1801_Strasbourg_171c977be788-db.gz, size: 1010001, sha256)
+0009.501 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0009.503 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0009.504 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0009.505 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-others.zip: others: This file has not yet been successfully uploaded: will queue
+0009.506 (0) backup_2017-08-30-1801_Strasbourg_171c977be788-db.gz: db: This file has not yet been successfully uploaded: will queue
+0009.507 (0) Saving backup history. Total backup size: 42.8 MB
+0009.511 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0009.515 (0) Cloud backup selection (1/1): none (last)
+0009.516 (0) No remote despatch: user chose no remote backup service
+0009.518 (0) Recording as successfully uploaded: backup_2017-08-30-1801_Strasbourg_171c977be788-plugins.zip (527d81ed2cf3249f9343d6db032e7e48)
+0009.524 (0) Recording as successfully uploaded: backup_2017-08-30-1801_Strasbourg_171c977be788-themes.zip (cba1c63283911004329ad688a46cb788)
+0009.528 (0) Recording as successfully uploaded: backup_2017-08-30-1801_Strasbourg_171c977be788-uploads.zip (8b1f558465229866554dcde3182b5829)
+0009.532 (0) Recording as successfully uploaded: backup_2017-08-30-1801_Strasbourg_171c977be788-others.zip (133a8acd9b3e2c33ed5b4ee53bfca45c)
+0009.537 (0) Recording as successfully uploaded: backup_2017-08-30-1801_Strasbourg_171c977be788-db.gz (a0951b3b19f7ce1a016b1f9de6da609a)
+0009.543 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0009.545 (0) Number of backup sets in history: 3; groups (db): 1
+0009.546 (0) Examining (for databases) backup set with group_id=0, nonce=171c977be788, datestamp=1504108867 (Aug 30 2017 16:01:07)
+0009.547 (0) This backup set is the backup set just made, so will not be deleted.
+0009.548 (0) Examining (for databases) backup set with group_id=0, nonce=01e0dd8d6900, datestamp=1504102836 (Aug 30 2017 14:20:36)
+0009.549 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.550 (0) Examining (for databases) backup set with group_id=0, nonce=405886ec5479, datestamp=1504097918 (Aug 30 2017 12:58:38)
+0009.551 (0) 1504097918: db: this set includes a database (backup_2017-08-30-1458_Strasbourg_405886ec5479-db.gz); db count is now 2
+0009.552 (0) 1504097918: db: over retain limit (2); will delete this database
+0009.552 (0) Delete file: backup_2017-08-30-1458_Strasbourg_405886ec5479-db.gz, service=none
+0009.553 (0) Deleting local copy (backup_2017-08-30-1458_Strasbourg_405886ec5479-db.gz)
+0009.556 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0009.557 (0) Number of backup sets in history: 3; groups (files): 1
+0009.558 (0) Examining (for files) backup set with nonce=171c977be788, datestamp=1504108867 (Aug 30 2017 16:01:07)
+0009.559 (0) This backup set is the backup set just made, so will not be deleted.
+0009.559 (0) This backup set is the backup set just made, so will not be deleted.
+0009.560 (0) This backup set is the backup set just made, so will not be deleted.
+0009.560 (0) This backup set is the backup set just made, so will not be deleted.
+0009.560 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.561 (0) Examining (for files) backup set with nonce=01e0dd8d6900, datestamp=1504102836 (Aug 30 2017 14:20:36)
+0009.562 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0009.562 (0) Examining (for files) backup set with nonce=405886ec5479, datestamp=1504097918 (Aug 30 2017 12:58:38)
+0009.564 (0) plugins: over retain limit (2); will delete this file entity
+0009.564 (0) themes: over retain limit (2); will delete this file entity
+0009.565 (0) uploads: over retain limit (2); will delete this file entity
+0009.566 (0) others: over retain limit (2); will delete this file entity
+0009.567 (0) Delete file: backup_2017-08-30-1458_Strasbourg_405886ec5479-plugins.zip, service=none
+0009.568 (0) Deleting local copy (backup_2017-08-30-1458_Strasbourg_405886ec5479-plugins.zip)
+0009.578 (0) Delete file: backup_2017-08-30-1458_Strasbourg_405886ec5479-themes.zip, service=none
+0009.579 (0) Deleting local copy (backup_2017-08-30-1458_Strasbourg_405886ec5479-themes.zip)
+0009.581 (0) Delete file: backup_2017-08-30-1458_Strasbourg_405886ec5479-uploads.zip, service=none
+0009.582 (0) Deleting local copy (backup_2017-08-30-1458_Strasbourg_405886ec5479-uploads.zip)
+0009.594 (0) Delete file: backup_2017-08-30-1458_Strasbourg_405886ec5479-others.zip, service=none
+0009.595 (0) Deleting local copy (backup_2017-08-30-1458_Strasbourg_405886ec5479-others.zip)
+0009.598 (0) This backup set is now empty; will remove from history
+0009.599 (0) Deleting log file (log.405886ec5479.txt)
+0009.600 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0009.604 (0) Resume backup (171c977be788, 0): finish run
+0009.606 (0) Decremented the semaphore (fd) by 1
+0009.607 (0) Semaphore (fd) unlocked
+0009.608 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0009.612 (0) The backup apparently succeeded and is now complete
+0009.613 (0) No email will/can be sent - the user has not configured an email address.
+0009.614 (0) La sauvegarde a réussie. Elle est maintenant terminée.

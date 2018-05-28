@@ -1,0 +1,409 @@
+/* Theme Name: decree-child
+Theme URI: https://monsite.com 
+Description: Description de mon thème enfant 
+Author:
+Author URI: https://siteperso.com 
+Template: decree 
+Version: 0.4 */
+
+@import url("../decree/style.css");
+
+
+/* --- top page title -- */
+
+.page-title {
+	display:none;
+}
+
+
+/*  ----- Home page ----- */
+    
+/* Menu */
+
+#menu-menu-1 a:hover {
+	color: #f00b14;
+	text-decoration: none;
+}
+
+.tagcloud a {
+	color: #b00f14;
+}
+.tagcloud a:hover {
+	color: #b00f14;
+	text-decoration: underline;
+}
+
+/* ----- Search Box ----- */ 
+
+#search-container {
+	background-color: black;
+}
+#search-container .search-field {
+	color: black;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+/* ----- slider ----- */ 
+
+.theme-dark .nivo-caption {
+	font-size: 2vw;
+	font-style: italic;
+}
+
+
+/* ------  Last-news insert ------ */  
+
+#last_news .elementor-widget-container {      
+	padding: 4%;
+}
+
+#last_news li {
+	list-style-type: none;
+}
+
+#last_news ul {
+	margin-left: 0;
+}
+
+span.rpwwt-post-title {
+	color: #b00f14;
+}
+span.rpwwt-post-title:hover {
+	color: b00f14;
+	text-decoration: underline;
+}
+
+.recent-posts-widget-with-thumbnails {
+	border: solid rgba(10,10,10, 0.5) 0.2em;
+	width: 40%;
+}
+
+.recent-posts-widget-with-thumbnails a {
+	font-size: 1.6em;
+}
+
+/* ---- Elementor element/Home Page ---- */
+
+.rpwwt-widget ul {
+	list-style-type: none;
+}
+
+.rpwwt-widget img {
+	margin-right: 3%;
+}
+
+/* ------ Title & links ------*/ 
+
+a:focus, a:active {
+	color: #f00b14;
+}
+
+.category-actualites .entry-title {
+	color: #f00b14;
+}
+
+.category-actualites a {
+	color: #f00b14;
+}
+.category-actualites a:hover {
+	color: #f00b14;
+	text-decoration: underline;
+}
+
+.category-actualites .archive-post-wrap .button-minimal {
+	color: #f00b14;
+}
+.category-actualites .archive-post-wrap .button-minimal:hover {
+	color: #f00b14;
+	text-decoration: underline;
+}
+
+.page-id-15 h2 {
+	color: #b00f14;
+}
+
+/* ------ Footer ------ */ 
+
+#colophon a {
+	color: #FFF;
+}
+#colophon a:hover {
+	color: #f00b14;
+	text-decoration: underline;
+}
+
+.category-actualites #colophon a {
+	color: #FFF;
+}
+.category-actualites #colophon a:hover {
+	color: #f00b14;
+	text-decoration: underline;
+}
+
+#colophon #text-5 p {
+	margin-bottom: 0;
+}
+
+/* ------ Articles Model Design ------- */
+
+.category-actualites div.archive-post-wrap {
+	display: flex;
+}
+
+.category-actualites figure.featured-image {
+	order: 2;
+	background-color: rgba(5, 5, 5, 0.9);
+}
+
+.category-actualites div.entry-container {
+	background-color: rgba(5, 5, 5, 0.9);
+	color: whitesmoke;
+	padding: 2%;
+}
+
+/* ------- Articles changes ------ */
+
+.wp-image-317 {
+	width: 60%;
+}
+
+/* ------- Button ------- */
+
+input[type="submit"] {
+	border-radius: 5px 
+}
+
+/* ------ Reservation Form -------- */
+
+.em-search-wrapper {
+	display: none;
+}
+
+.events-table caption {
+	color: black;
+	border: 0 none;
+}
+
+.events-table {
+	background-color: black;
+	color: white;
+}
+
+.events-table thead {
+	color: white;
+}
+
+.events-table tr th {
+	text-align: center;
+	padding: 2%;
+	color: white;
+}
+
+.css-events-list table.events-table td:nth-child(1) {
+	text-align: center;
+	padding: 3%;
+}
+.css-events-list table.events-table td:nth-child(3) {
+	text-align: center;
+	padding: 3%;
+}
+.css-events-list table.events-table td:nth-child(2) {
+	padding: 3%;
+}
+
+.em-booking-form-details {
+	width: 100%;
+}
+
+.events-table tr:hover {
+	background-color: #222222;
+	color: white;
+}
+
+.events-table td:nth-child(2) {
+	width: 70%;
+}
+
+.events-table td {
+	vertical-align: middle;
+}
+
+.events-table a {
+	background-color: #b00f14;
+	color: white;
+	border: #720508 solid 2px;
+	border-radius: 5px;
+	padding: 3px;
+}
+.events-table a:hover {
+	background-color: #b00f14;
+	color: white;
+	border: #720508 solid 2px;
+	border-radius: 5px;
+	padding: 3px;
+	text-decoration: underline;
+}
+
+/* Contact Page */
+
+	.elementor-widget-container form textarea {
+		height: auto;
+		width: auto;
+	}
+
+	.elementor-widget-container form p:nth-child(4) {
+		margin-bottom: 0;
+	}
+
+	.elementor-widget-container form p:nth-child(5) {
+		font-size: 1.1vw;
+	}
+
+/* ------------- Media Queries ------------ */
+
+@media all and (max-width: 1200px) {
+	
+	/* Posts style in actualities */ 
+
+	.category-actualites .archive-post-wrap figure.featured-image {
+		display: none;
+	}
+
+	.category-actualites .entry-container .entry-content p:nth-child(4) {
+		display: none;
+	}	
+
+	/* Table Events */
+
+	.css-events-list table.events-table th.event-time {
+		width: 15%;
+	}
+	.events-table tr th:nth-child(3) {
+		width: 20%;
+	}
+
+	/* Contact Page */
+
+	.elementor-widget-container form textarea {
+		height: 200px;
+		width: auto;
+	}
+	.elementor-widget-container form p:nth-child(5) {
+		font-size: 1em;
+	}	
+}
+
+@media all and (max-width: 1030px) {
+	
+	/* Events Table */
+
+	.css-events-list table.events-table td:nth-child(1) {
+		text-align: center;
+		padding: 1%;
+	}
+
+	.css-events-list table.events-table td:nth-child(3) {
+		text-align: center;
+		padding: 1%;
+	}
+
+	.css-events-list table.events-table td:nth-child(2) {
+		padding: 3%;
+	}
+
+	/* Reservation Button in events table */
+
+	.events-table a {
+		background-color: #b00f14;
+		color: white;
+		border: #720508 solid 2px;
+		border-radius: 5px;
+		padding: 3px;		
+	}
+	.events-table a:hover {
+		background-color: #b00f14;
+		color: white;
+		border: #720508 solid 2px;
+		border-radius: 5px;
+		padding: 3px;
+		text-decoration: underline;
+	}
+}
+
+@media all and (max-width: 900px) {
+
+	/* Responsive Events Table */
+
+	.events-table {
+		display: block;
+		width: 100%;
+	}
+	
+	.events-table thead, .events-table caption {
+		display: none;
+	}
+
+	.events-table td {
+		display: block;
+		width: 100%;
+    	text-align: center;
+	}
+
+	.events-table tr {
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+
+	#em-booking {
+		display: block;
+		width: 100%;
+    	text-align: center;
+	}
+
+	.events-table td:nth-child(2) {
+		width: 100%;
+	}
+
+	.events-table a {
+		background-color: #b00f14;
+		color: white;
+		border: #720508 solid 2px;
+		border-radius: 8px;
+		padding: 3px;		
+	}
+	.events-table a:hover {
+		background-color: #b00f14;
+		color: white;
+		border: #720508 solid 2px;
+		border-radius: 8px;
+		padding: 3px;
+		text-decoration: underline;
+	}
+}
+
+@media all and (max-width: 780px) {
+
+	/* Events table responsive plugin customization */
+
+	/* Background color */
+
+	.ml-responsive-table dl:nth-of-type(odd) {
+		background: rgba(0, 0, 0, 0.1);
+	}
+
+	.ml-responsive-table dl:nth-of-type(even) {
+		background: rgba(70, 0, 0, 0.3);
+	}
+
+	/* Button */
+
+	.ml-responsive-table a {
+		background-color: #b00f14;
+		color: white;
+		border: #720508 solid 2px;
+		border-radius: 8px;
+		padding: 3px;			
+	}
+}
